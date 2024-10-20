@@ -56,8 +56,8 @@ y = 45 + 7x
 Where:
 - **\(y\)**: Predicted test score.
 - **\(x\)**: Number of hours studied.
-- **\(\β0 = 45\)**: This is the y-intercept. It represents the predicted test score when a student studies for **0 hours**.
-- **\(\β1 = 7\)**: This is the slope of the line. It tells us that for every additional hour a student studies, their score increases by **7 points**.
+- **\(β0 = 45\)**: This is the y-intercept. It represents the predicted test score when a student studies for **0 hours**.
+- **\(β1 = 7\)**: This is the slope of the line. It tells us that for every additional hour a student studies, their score increases by **7 points**.
 
 ### Step 4: Interpreting the Results
 
