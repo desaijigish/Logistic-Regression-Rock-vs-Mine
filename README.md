@@ -48,10 +48,8 @@ Now, you want to analyze this **mine** of data to find a relationship between ho
 ### Step 3: The Regression Line
 
 After performing regression analysis, you might find a line that can be represented by the equation:
-
-\[ 
+ 
 y = 45 + 7x 
-\]
 
 Where:
 - **\(y\)**: Predicted test score.
