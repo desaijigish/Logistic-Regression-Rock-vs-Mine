@@ -39,44 +39,13 @@ Finding the Best Line: Using regression analysis, you want to find the line that
 Step 3: The Regression Line
 After performing regression analysis, you might find a line that can be represented by the equation:
 
-𝑦
-=
-45
-+
-7
-𝑥
-y=45+7x
+𝑦=45+7𝑥
 Where:
-
-𝑦
 y: Predicted test score.
-𝑥
 x: Number of hours studied.
-𝛽
-0
-=
-45
-β 
-0
-​
- =45: This is the y-intercept. It represents the predicted test score when a student studies for 0 hours.
-𝛽
-1
-=
-7
-β 
-1
-​
- =7: This is the slope of the line. It tells us that for every additional hour a student studies, their score increases by 7 points.
+𝛽0 = 45 : This is the y-intercept. It represents the predicted test score when a student studies for 0 hours.
+𝛽1 = 7 : This is the slope of the line. It tells us that for every additional hour a student studies, their score increases by 7 points.
 Step 4: Interpreting the Results
-Using the equation 
-𝑦
-=
-45
-+
-7
-𝑥
-y=45+7x:
 
 Intercept (45): If a student studies 0 hours, the predicted score is 45. This is like saying if there’s no rock (no study hours), there’s still some base score.
 Slope (7): For every extra hour studied, the test score goes up by 7 points. This shows a positive relationship: more studying leads to better scores, similar to finding that adding more rocks (study hours) increases your potential score (value).
