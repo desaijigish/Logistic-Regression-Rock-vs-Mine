@@ -18,11 +18,12 @@ Step 1: Collect Data (The Mine)
 You gather data from several students. This dataset represents your mine:
 
 Student	Hours Studied (Rock x)	Test Score (Rock y)
-1	1	50
-2	2	55
-3	3	65
-4	4	70
-5	5	80
+1	      1	                      50
+2	      2	                      55
+3	      3	                      65
+4	      4	                      70
+5	      5	                      80
+
 In this table:
 
 Each row represents a rock (an individual observation).
@@ -39,7 +40,8 @@ Finding the Best Line: Using regression analysis, you want to find the line that
 Step 3: The Regression Line
 After performing regression analysis, you might find a line that can be represented by the equation:
 
-𝑦=45+7𝑥
+𝑦 = 45+7𝑥
+
 Where:
 y: Predicted test score.
 x: Number of hours studied.
